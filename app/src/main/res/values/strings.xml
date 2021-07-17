@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FollowChess</string>
+    <string name="follow_chess">Follow Chess</string>
+    <string name="no_internet_please_turn_on_and_again_open_the_app">No Internet ! PLease Turn On and Again Open the App</string>
+</resources>
