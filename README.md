@@ -1,4 +1,1 @@
 # FollowChess
-# FollowChess
-# FollowChessSquare
-# FollowChess
